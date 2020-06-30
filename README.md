@@ -7,3 +7,4 @@ This simple OpenCV project helps to detect faces using Haar Cascades and then fi
 
 5)Eye Blink Detection
 6)Invisible cloak of Harry Potter
+7) Funny Mirrors
